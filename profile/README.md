@@ -45,7 +45,7 @@ Explore our powerful, fully reversed APIs and tools, here to fuel your projects:
 - Tailored APIs for scraping sites like **Amazon**, **LinkedIn**, **Naver**, or any site you need.
 - Fully reversed and optimized for high-performance data extraction. 
 
-### 💥 Professional Dashboards/Landing Pages - [SRC]  
+### 💥 Dashboards/Landing Pages - [SRC]  
 - Tailor-made dashboards/landing pages, crafted for your business.
 - Clean UI, real-time data, and full control over your workflows.
 <br><br>
