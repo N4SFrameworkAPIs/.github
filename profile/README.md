@@ -41,6 +41,10 @@ Explore our powerful, fully reversed APIs and tools, here to fuel your projects:
 - Fully tailored and optimized for maximum security and performance.
 - Mimics all major browsers and platforms, including custom setups.
 
+### 💥 Custom Scrapers - [API]  
+- Tailored APIs for scraping sites like **Amazon**, **LinkedIn**, **Naver**, or any site you need.
+- Fully reversed and optimized for high-performance data extraction. 
+
 ### 💥 Professional Dashboards - [SRC]  
 - Tailor-made dashboards, crafted for your business.
 - Clean UI, real-time data, and full control over your workflows.
