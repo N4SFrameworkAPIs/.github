@@ -25,11 +25,11 @@ Discover why N4S.io is trusted by developers worldwide:
 ## 🛡️ Our Services
 Explore our powerful, fully reversed APIs and tools, here to fuel your projects:
 
-### 💥 Akamai WEB - [API]  
+### 💥 Akamai WEB Solver - [API]  
 - One of the most affordable and high-performing API on the market.
 - Supports both SensorData versions 2.0 and 3.0 (including dynamic).  
 
-### 💥 Incapsula/Imperva - [API]  
+### 💥 Incapsula/Imperva Solver - [API]  
 - Supports the most popular sites, any can be added upon request.
 - Full support for reese84 and __utmvc cookies.
 
