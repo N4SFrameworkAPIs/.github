@@ -7,7 +7,7 @@
 At N4S.io, we craft **custom, fully reversed APIs** to simplify automation and botting.  
 Our solutions are built from scratch by developers, for developers, delivering performance, scalability, and ease of use.  
 Say goodbye to WebBrowser based or sandboxed limitations, our tools empower you with pure and flexible power.  
-[Join our community](https://framework.n4s.xyz/) and elevate your projects to the next level!
+[Join our community](https://www.n4s-framework.io/) and elevate your projects to the next level!
 <br><br>
 ## ⭐ Our Features
 Discover why N4S.io is trusted by developers worldwide:
@@ -54,4 +54,4 @@ Are you a passionate developer eager to push the boundaries of automation and bo
 At N4S.io, we're always on the lookout for **talented and driven individuals** to join our team! 
 - 🚀 Collaborate with a community of innovators to create next-level solutions.  
 - 💻 Bring your skills to the table and grow with us in a dynamic, remote-friendly environment.  
-Interested? Reach out via our [Official Discord Server](https://framework.n4s.xyz/) to discuss collaboration opportunities.
+Interested? Reach out via our [Official Discord Server](https://www.n4s-framework.io/) to discuss collaboration opportunities.
