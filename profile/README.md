@@ -1,6 +1,6 @@
 <center>
 <h1>🙋‍♂️ Welcome to N4S.io Framework</h1>
-<img src="[https://cdn.discordapp.com/attachments/1387083346730942545/1425519253314076712/nj4su1.png?ex=68e7e1c2&is=68e69042&hm=87bb5bada35cb35c220c5877a6c88411d09693c27b340710ee376a2493af1b1e&](https://media.discordapp.net/attachments/1387083346730942545/1425519253314076712/nj4su1.png?ex=68ed27c2&is=68ebd642&hm=9fc68a92be87234566b00c09f90f906710c6c2b0afc6e71727c5a37f023e2783&=&format=webp&quality=lossless&width=2842&height=948)" alt="N4S Logo" style="max-width: 100%;">
+<img src="https://cdn.discordapp.com/attachments/1387083346730942545/1425519253314076712/nj4su1.png?ex=68ed27c2&is=68ebd642&hm=9fc68a92be87234566b00c09f90f906710c6c2b0afc6e71727c5a37f023e2783&">
 </center>
 
 ## 🌟 Our Mission
