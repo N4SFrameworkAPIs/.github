@@ -1,6 +1,6 @@
 <center>
 <h1>🙋‍♂️ Welcome to N4S.io Framework</h1>
-<img src="https://cdn.discordapp.com/attachments/1387083346730942545/1425519253314076712/nj4su1.png?ex=68ed27c2&is=68ebd642&hm=9fc68a92be87234566b00c09f90f906710c6c2b0afc6e71727c5a37f023e2783&">
+<img src="https://cdn.discordapp.com/attachments/1387083346730942545/1425519253314076712/nj4su1.png?ex=68fba842&is=68fa56c2&hm=c0a2e17dcf3a2c06a2ffe5627965bb20e83fa09376c4317a2489811d2c08587c&">
 </center>
 
 ## 🌟 Our Mission
@@ -25,29 +25,12 @@ Discover why N4S.io is trusted by developers worldwide:
 ## 🛡️ Our Services
 Explore our powerful, fully reversed APIs and tools, here to fuel your projects:
 
-### 💥 Akamai WEB Solver - [API]  
-- One of the most affordable and high-performing API on the market.
-- Supports both SensorData versions 2.0 and 3.0 (including dynamic).  
-
-### 💥 Incapsula/Imperva Solver - [API]  
-- Supports the most popular sites, any can be added upon request.
-- Full support for reese84 and __utmvc cookies.
-
-### 💥 MACT Generator - [API/SRC]  
-- Math-based and adaptable to any anti-bot solution.
-- Built from scratch by our team no copy-paste.
-
-### 💥 TLS Support - [API]  
-- Fully tailored and optimized for maximum security and performance.
-- Mimics all major browsers and platforms, including custom setups.
-
-### 💥 Custom Scrapers - [API]  
-- Tailored APIs for scraping sites like **Amazon**, **LinkedIn**, **Naver**, or any site you need.
-- Fully reversed and optimized for high-performance data extraction. 
-
-### 💥 Dashboards/Landing Pages - [SRC]  
-- Tailor-made dashboards/landing pages, crafted for your business.
-- Clean UI, real-time data, and full control over your workflows.
+💥 Akamai WEB Solver - [API]  
+💥 Incapsula/Imperva Solver - [API]  
+💥 MACT Generator - [API/SRC]  
+💥 TLS Support - [API]  
+💥 Custom Scrapers - [API/SRC]  
+💥 Dashboards/Landing Pages - [SRC]
 <br><br>
 ## 💼 Looking for a JOB?
 Are you a passionate developer eager to push the boundaries of automation and botting?<br>
